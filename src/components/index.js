@@ -1,0 +1,11 @@
+export { About } from "./About";
+export { FeaturedProducts } from "./FeaturedProducts";
+export { Home } from "./Home";
+export { Navbar } from "./Navbar";
+export { NewProducts } from "./NewProducts";
+export { NotFound } from "./NotFound";
+export { OrderSummary } from "./OrderSummary";
+export { Products } from "./Products";
+export { Users } from "./Users";
+export { UserDetails } from "./UserDetails";
+export { Admin } from "./Admin";
